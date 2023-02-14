@@ -1,0 +1,90 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : POSITIVE_VOLTAGE_REGULATOR_SCH.brd            )
+(    Software Version : 16.6-2015S059                                 )
+(    Date/Time        : Thu Dec 15 00:04:58 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:\1FACULTA\ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI\CURSURI INREGISTRATE\AN 3 SEM 1\PROIECT 1\SCHEMATIC\allegro'
+Design Directory:            '.'
+Old design name:             'D:/1FACULTA/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/CURSURI INREGISTRATE/AN 3 SEM 1/PROIECT 1/SCHEMATIC/allegro/POSITIVE_VOLTAGE_REGULATOR_SCH.brd'
+New design name:             'D:/1FACULTA/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/CURSURI INREGISTRATE/AN 3 SEM 1/PROIECT 1/SCHEMATIC/allegro/POSITIVE_VOLTAGE_REGULATOR_SCH.brd'
+
+CmdLine: netrev.exe -y 1 -n -i D:\1FACULTA\ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI\CURSURI INREGISTRATE\AN 3 SEM 1\PROIECT 1\SCHEMATIC\allegro D:\1FACULTA\ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI\CURSURI INREGISTRATE\AN 3 SEM 1\PROIECT 1\SCHEMATIC\allegro\POSITIVE_VOLTAGE_REGULATOR_SCH.brd D:\1FACULTA\ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI\CURSURI INREGISTRATE\AN 3 SEM 1\PROIECT 1\SCHEMATIC\allegro\POSITIVE_VOLTAGE_REGULATOR_SCH.brd
+
+------ Preparing to read pst files ------
+
+Starting to read D:/1FACULTA/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/CURSURI INREGISTRATE/AN 3 SEM 1/PROIECT 1/SCHEMATIC/allegro/pstchip.dat 
+   Finished reading D:/1FACULTA/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/CURSURI INREGISTRATE/AN 3 SEM 1/PROIECT 1/SCHEMATIC/allegro/pstchip.dat (00:00:00.03)
+Starting to read D:/1FACULTA/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/CURSURI INREGISTRATE/AN 3 SEM 1/PROIECT 1/SCHEMATIC/allegro/pstxprt.dat 
+   Finished reading D:/1FACULTA/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/CURSURI INREGISTRATE/AN 3 SEM 1/PROIECT 1/SCHEMATIC/allegro/pstxprt.dat (00:00:00.00)
+Starting to read D:/1FACULTA/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/CURSURI INREGISTRATE/AN 3 SEM 1/PROIECT 1/SCHEMATIC/allegro/pstxnet.dat 
+   Finished reading D:/1FACULTA/ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI/CURSURI INREGISTRATE/AN 3 SEM 1/PROIECT 1/SCHEMATIC/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           D:/OrCAD/OrCAD_16.6_Lite/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/OrCAD/OrCAD_16.6_Lite/share/local/pcb/symbols 
+           D:/OrCAD/OrCAD_16.6_Lite/share/pcb/pcb_lib/symbols 
+           D:/OrCAD/OrCAD_16.6_Lite/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/OrCAD/OrCAD_16.6_Lite/share/local/pcb/padstacks 
+           D:/OrCAD/OrCAD_16.6_Lite/share/pcb/pcb_lib/symbols 
+           D:/OrCAD/OrCAD_16.6_Lite/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Dec 15 0:04:58 2022
+   DESIGN NAME : 'POSITIVE_VOLTAGE_REGULATOR_SCH'
+   PACKAGING ON Aug  3 2015 18:16:55
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:38
+elapsed time  0:00:01
+

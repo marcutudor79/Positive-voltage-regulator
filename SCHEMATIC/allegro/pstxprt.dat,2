@@ -1,0 +1,400 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Dec-14-2022 at 23:53:54 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='POSITIVE_VOLTAGE_REGULATOR_SCH';
+ POST_TIME='Aug  3 2015 18:16:55';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS94027@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins94027@analog.\c.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins94027@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS96261@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins96261@analog.\c.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins96261@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS94059@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins94059@analog.\c.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins94059@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS94043@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins94043@analog.\c.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins94043@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'BZX84-C5V1_0_TO236AB_BZX84-C5V1':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS80133@POSITIVE_FEEDBACK_REGULATOR.BZX84-C5V1_0.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins80133@positive_feedback_regulator.\bzx84-c5v1_0.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins80133@positive_feedback_regulator.\bzx84-c5v1_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'BZX84-C2V7_0_TO236AB_BZX84-C2V7':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79233@POSITIVE_FEEDBACK_REGULATOR.BZX84-C2V7_0.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79233@positive_feedback_regulator.\bzx84-c2v7_0.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79233@positive_feedback_regulator.\bzx84-c2v7_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'BZX84-C10_0_TO236AB_BZX84-C10':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79969@POSITIVE_FEEDBACK_REGULATOR.BZX84-C10_0.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79969@positive_feedback_regulator.\bzx84-c10_0.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79969@positive_feedback_regulator.\bzx84-c10_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'BZX84-C5V1_0_TO236AB_BZX84-C5V1':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS80093@POSITIVE_FEEDBACK_REGULATOR.BZX84-C5V1_0.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins80093@positive_feedback_regulator.\bzx84-c5v1_0.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins80093@positive_feedback_regulator.\bzx84-c5v1_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'BZX84-C2V7_0_TO236AB_BZX84-C2V7':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS80069@POSITIVE_FEEDBACK_REGULATOR.BZX84-C2V7_0.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins80069@positive_feedback_regulator.\bzx84-c2v7_0.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins80069@positive_feedback_regulator.\bzx84-c2v7_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_1210RF_WV_12D_CON2':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS81389@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins81389@connector.\con2.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins81389@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'JMMBFJ309LT1_0_TO236AB_JMMBFJ30':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79585@POSITIVE_FEEDBACK_REGULATOR.JMMBFJ309LT1_0.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79585@positive_feedback_regulator.\jmmbfj309lt1_0.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79585@positive_feedback_regulator.\jmmbfj309lt1_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'QBC807-25_0_TO236AB_QBC807-25':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79995@POSITIVE_VOLTAGE_REGULATOR_SCH.QBC807-25_0.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79995@positive_voltage_regulator_sch.\qbc807-25_0.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79995@positive_voltage_regulator_sch.\qbc807-25_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'QBC807-25_0_TO236AB_QBC807-25':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS80049@POSITIVE_VOLTAGE_REGULATOR_SCH.QBC807-25_0.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins80049@positive_voltage_regulator_sch.\qbc807-25_0.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins80049@positive_voltage_regulator_sch.\qbc807-25_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'QBC817-25_1_TO236AB_QBC817-25':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79717@POSITIVE_VOLTAGE_REGULATOR_SCH.QBC817-25_1.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79717@positive_voltage_regulator_sch.\qbc817-25_1.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79717@positive_voltage_regulator_sch.\qbc817-25_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 'QBC817-25_1_TO236AB_QBC817-25':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79693@POSITIVE_VOLTAGE_REGULATOR_SCH.QBC817-25_1.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79693@positive_voltage_regulator_sch.\qbc817-25_1.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79693@positive_voltage_regulator_sch.\qbc817-25_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 'QBC817-25_1_TO236AB_QBC817-25':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79791@POSITIVE_VOLTAGE_REGULATOR_SCH.QBC817-25_1.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79791@positive_voltage_regulator_sch.\qbc817-25_1.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79791@positive_voltage_regulator_sch.\qbc817-25_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7 'QBC817-25_1_TO236AB_QBC817-25':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79643@POSITIVE_VOLTAGE_REGULATOR_SCH.QBC817-25_1.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79643@positive_voltage_regulator_sch.\qbc817-25_1.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79643@positive_voltage_regulator_sch.\qbc817-25_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q8 'QMJD31C_0_DPACK_QMJD31C':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79889@POSITIVE_FEEDBACK_REGULATOR.QMJD31C_0.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79889@positive_feedback_regulator.\qmjd31c_0.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79889@positive_feedback_regulator.\qmjd31c_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q9 'QMJD31C_0_DPACK_QMJD31C':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79855@POSITIVE_FEEDBACK_REGULATOR.QMJD31C_0.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79855@positive_feedback_regulator.\qmjd31c_0.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79855@positive_feedback_regulator.\qmjd31c_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES2012X50N_0805_150':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79745@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79745@analog.\r.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79745@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RES2012X50N_0805_1':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79667@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79667@analog.\r.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79667@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_RES2012X50N_0805_15K':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79347@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79347@analog.\r.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79347@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS80267@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins80267@analog.\r.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins80267@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'POT_0_TS53YL_2K':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79825@POSITIVE_FEEDBACK_REGULATOR.POT_0.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79825@positive_feedback_regulator.\pot_0.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79825@positive_feedback_regulator.\pot_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_RES2012X50N_0805_15K':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79377@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79377@analog.\r.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79377@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES2012X50N_0805_500':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79481@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79481@analog.\r.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79481@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79925@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79925@analog.\r.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79925@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79947@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79947@analog.\r.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79947@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES2012X50N_0805_100':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS80025@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins80025@analog.\r.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins80025@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES2012X50N_0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS80207@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins80207@analog.\r.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins80207@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES2012X50N_0805_100K':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS80159@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins80159@analog.\r.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins80159@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES2012X50N_0805_10':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79605@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79605@analog.\r.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79605@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RES2012X50N_0805_10':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS79625@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins79625@analog.\r.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins79625@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RL 'R_RES2012X50N_0805_470':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS83866@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins83866@analog.\r.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins83866@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TEST POINT_SMD_PAD_3-05_1-80_TE':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS81933@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins81933@connector.\test point.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins81933@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TEST POINT_SMD_PAD_3-05_1-80_TE':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS81975@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins81975@connector.\test point.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins81975@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TEST POINT_SMD_PAD_3-05_1-80_TE':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS82016@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins82016@connector.\test point.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins82016@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'TEST POINT_SMD_PAD_3-05_1-80_TE':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS84774@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins84774@connector.\test point.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins84774@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP5 'TEST POINT_SMD_PAD_3-05_1-80_TE':;
+
+SECTION_NUMBER 1
+ '@POSITIVE_VOLTAGE_REGULATOR_SCH.SCHEMATIC1(SCH_1):INS85488@CONNECTOR.TEST POINT.NORMAL(CHIPS)':
+ C_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):ins85488@connector.\test point.normal\(chips)',
+ P_PATH='@positive_voltage_regulator_sch.schematic1(sch_1):page1_ins85488@connector.\test point.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

@@ -1,0 +1,121 @@
+\t (00:00:07) allegro 16.6-2015 S059 (v16-6-112ER) Windows 32
+\t (00:00:07)     Journal start - Wed Jan 11 18:55:04 2023
+\t (00:00:07)         Host=SPACEVAN14 User=Tudor Pid=21284 CPUs=16
+\t (00:00:07) CmdLine= D:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin\allegro.exe -orcad
+\t (00:00:07) 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: D:/1faculta/OneDrive - Universitatea Politehnica Bucuresti/Cursuri Inregistrate/AN 3 SEM 1/Proiect 1/SCHEMATIC/allegro/POSITIVE_VOLTAGE_REGULATOR_SCH.brd
+\i (00:00:08) trapsize 10089
+\i (00:00:08) trapsize 9908
+\i (00:00:08) trapsize 10120
+\i (00:00:09) trapsize 10120
+\i (00:00:09) generaledit 
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 661.916 746.922
+\i (00:00:10) trapsize 20240
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 661.917 746.923
+\i (00:00:10) trapsize 40479
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 661.916 746.922
+\i (00:00:10) trapsize 80958
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -38.793 746.923
+\i (00:00:10) trapsize 108142
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 4066.017 -432.570
+\i (00:00:10) trapsize 108142
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 4066.017 -432.570
+\i (00:00:10) trapsize 54071
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -769.225 -432.570
+\i (00:00:11) trapsize 27036
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -769.225 -432.569
+\i (00:00:11) trapsize 13518
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 344.643 83.811
+\i (00:00:12) trapsize 6759
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 394.659 129.772
+\i (00:00:12) trapsize 13518
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 210.818 254.136
+\i (00:00:12) trapsize 27036
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 151.339 313.615
+\i (00:00:12) trapsize 54071
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 1481.493 1427.482
+\i (00:00:13) trapsize 27036
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 1416.607 1486.961
+\i (00:00:13) trapsize 13518
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 1478.789 957.063
+\i (00:00:14) trapsize 27036
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 1543.675 1470.740
+\i (00:00:14) trapsize 13518
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 1543.675 1441.002
+\i (00:00:15) trapsize 6759
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 1234.117 1190.923
+\i (00:00:15) trapsize 13518
+\i (00:00:22) setwindow form.vf_vis
+\i (00:00:22) FORM vf_vis colorview_list Film: SILSKSCREEN 
+\i (00:00:28) FORM vf_vis colorview_list Film: SILSKSCREEN 
+\i (01:11:50) FORM vf_vis colorview_list Film: SILSKSCREEN 
+\i (01:11:54) setwindow pcb
+\i (01:11:54) zoom out 1 
+\i (01:11:54) setwindow pcb
+\i (01:11:54) zoom out 1747.794 363.632
+\i (01:11:54) trapsize 27036
+\i (01:11:54) zoom out 1 
+\i (01:11:54) setwindow pcb
+\i (01:11:54) zoom out 1747.794 363.633
+\i (01:11:54) trapsize 54071
+\i (01:11:55) zoom in 1 
+\i (01:11:55) setwindow pcb
+\i (01:11:55) zoom in 1747.794 363.632
+\i (01:11:55) trapsize 27036
+\i (01:11:55) zoom in 1 
+\i (01:11:55) setwindow pcb
+\i (01:11:55) zoom in 1747.794 363.633
+\i (01:11:55) trapsize 13518
+\i (01:13:38) zoom out 1 
+\i (01:13:38) setwindow pcb
+\i (01:13:38) zoom out 831.286 579.918
+\i (01:13:38) trapsize 27036
+\i (01:13:38) zoom in 1 
+\i (01:13:38) setwindow pcb
+\i (01:13:38) zoom in 831.286 579.919
+\i (01:13:38) trapsize 13518
+\i (01:16:45) setwindow form.vf_vis
+\i (01:16:45) FORM vf_vis colorview_list Film: SMTOP 
+\i (01:26:15) FORM vf_vis colorview_list Film: SMBOT 
+\i (01:27:26) FORM vf_vis colorview_list Film: SPTOP 
+\i (01:29:13) FORM vf_vis colorview_list Film: FAB_2 
+\i (01:54:02) setwindow pcb
+\i (01:54:02) exit 
+\t (01:54:03)     Journal end - Wed Jan 11 20:49:00 2023
